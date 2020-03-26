@@ -1,0 +1,11 @@
+LaunchTargetManager/configs/ProgramacionI.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/clase1ejercicio3.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/ejercicioFunciones.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:hola mundo.exe,org.eclipse.launchbar.core.descriptorType.default\:ProgramacionI.exe,org.eclipse.launchbar.core.descriptorType.default\:prueba2.exe,org.eclipse.launchbar.core.descriptorType.default\:clase1.exe,org.eclipse.launchbar.core.descriptorType.default\:clase1.1.exe,org.eclipse.launchbar.core.descriptorType.default\:clase1ejercicio2.exe,org.eclipse.launchbar.core.descriptorType.default\:clase1ejercicio3.exe,org.eclipse.launchbar.core.descriptorType.default\:ejercicioFunciones.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ProgramacionI.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:hola\ mundo.exe/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:hola\ mundo.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
